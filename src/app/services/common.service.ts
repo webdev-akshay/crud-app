@@ -16,5 +16,10 @@ export class CommonService {
   deleteData(id:string):Observable<any>{
   return this.http.delete(`${this.ApiUrl}/employees/${id}`)
   }
-
+  addData(newData:any):Observable<any>{
+    return this.http.post(`${this.ApiUrl}/employees`,newData)
+  }
+  editData(id:string,updateddata:any):Observable<any>{
+    return this.http.put(`${this.ApiUrl}/employees/${id}`,updateddata)
+  }
 }

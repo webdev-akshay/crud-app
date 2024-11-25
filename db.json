@@ -1,15 +1,8 @@
 {
   "employees": [
     {
-      "id": "3",
-      "name": "Alice Johnson",
-      "designation": "Project Manager",
-      "department": "Management",
-      "salary": 80000
-    },
-    {
       "id": "4",
-      "name": "Bob Brown",
+      "name": "Bob Brown jr",
       "designation": "QA Engineer",
       "department": "Testing",
       "salary": 50000
@@ -55,6 +48,27 @@
       "designation": "Frontend Developer",
       "department": "IT",
       "salary": 62000
+    },
+    {
+      "id": "101",
+      "name": "Akshay wakle",
+      "designation": "software developer",
+      "department": "Product",
+      "salary": "10000"
+    },
+    {
+      "id": "102",
+      "name": "vicky",
+      "designation": "software developer",
+      "department": "admin",
+      "salary": "20000"
+    },
+    {
+      "id": "103",
+      "name": "ram",
+      "designation": "software developer",
+      "department": "Product",
+      "salary": "10000"
     }
   ]
 }
