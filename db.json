@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "designation": "Project Manager",
+      "department": "Management",
+      "salary": 80000
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "designation": "QA Engineer",
+      "department": "Testing",
+      "salary": 50000
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "designation": "DevOps Engineer",
+      "department": "Operations",
+      "salary": 70000
+    },
+    {
+      "id": "6",
+      "name": "Emma Wilson",
+      "designation": "HR Manager",
+      "department": "HR",
+      "salary": 60000
+    },
+    {
+      "id": "7",
+      "name": "David White",
+      "designation": "Backend Developer",
+      "department": "IT",
+      "salary": 65000
+    },
+    {
+      "id": "8",
+      "name": "Sophia Green",
+      "designation": "Marketing Specialist",
+      "department": "Marketing",
+      "salary": 50000
+    },
+    {
+      "id": "9",
+      "name": "Liam Harris",
+      "designation": "Data Scientist",
+      "department": "Data",
+      "salary": 90000
+    },
+    {
+      "id": "10",
+      "name": "Olivia Adams",
+      "designation": "Frontend Developer",
+      "department": "IT",
+      "salary": 62000
+    }
+  ]
+}
