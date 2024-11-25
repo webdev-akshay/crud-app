@@ -1,13 +1,6 @@
 {
   "employees": [
     {
-      "id": "4",
-      "name": "Bob Brown jr",
-      "designation": "QA Engineer",
-      "department": "Testing",
-      "salary": 50000
-    },
-    {
       "id": "5",
       "name": "Charlie Davis",
       "designation": "DevOps Engineer",

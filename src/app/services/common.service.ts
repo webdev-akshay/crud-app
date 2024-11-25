@@ -22,4 +22,8 @@ export class CommonService {
   editData(id:string,updateddata:any):Observable<any>{
     return this.http.put(`${this.ApiUrl}/employees/${id}`,updateddata)
   }
+  searchEmployees(name:string,designation:string){
+    return this.http.get(`${this.ApiUrl}/employees/${name}&{designation}`)
+
+  }
 }
